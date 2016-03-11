@@ -8,9 +8,9 @@ sourcewithbeep  <- function( ) {
 
    if( currentfilepath == '') {
 
-      write.table(currentfile$contents,file = '~/.active-rstudio-document', row.names = F, col.names = F, quote = F)
-      source('~/.active-rstudio-document', echo=T)
-      file.remove('~/.active-rstudio-document')
+      write.table(currentfile$contents,file = '~/.active-rstudio-document2', row.names = F, col.names = F, quote = F)
+      source('~/.active-rstudio-document2', echo=T)
+      file.remove('~/.active-rstudio-document2')
 
     } else {
 
