@@ -1,0 +1,5 @@
+
+Name: Source with Beep
+Description: source the current file and beep when finished
+Binding: sourcewithbeep
+Interactive: false
