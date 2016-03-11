@@ -1,9 +1,9 @@
 Package: muaddin
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Title: RStudio Addins for Millikin's ADC
+Version: 1.0
+Author: CrazyBilly
+Maintainer: Jake tolbert <crazybilly@gmail.com>
+Description: RStudio addins for use at Millikin University's Alumni & Development Center
+License: GPL 2 or higher
 LazyData: TRUE
