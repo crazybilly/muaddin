@@ -7,3 +7,6 @@ Maintainer: Jake tolbert <crazybilly@gmail.com>
 Description: RStudio addins for use at Millikin University's Alumni & Development Center
 License: GPL 2 or higher
 LazyData: TRUE
+Imports:
+   beepr,
+   rstudioapi
